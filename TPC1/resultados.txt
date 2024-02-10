@@ -1,0 +1,25 @@
+Lista de modalidades:
+* BTT
+* Ciclismo
+* Basquetebol
+* Andebol
+* Futebol
+* Atletismo
+* EquitaÃ§Ã£o
+* Patinagem
+* OrientaÃ§Ã£o
+* Triatlo
+* DanÃ§a
+* KaratÃ©
+* Badminton
+* Esgrima
+* Parapente
+
+Aptos e Inaptos:
+- Percentagem Aptos: 54.00%
+- Percentagem Inaptos: 46.00%
+
+Distribuição de Idades:
+         [21 - 25]: 92
+         [26 - 30]: 107
+         [30 - 35]: 101
