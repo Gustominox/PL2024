@@ -15,6 +15,4 @@
   - `aptos_inaptos.txt`: Arquivo contendo as percentagens de atletas aptos e inaptos.
   - `distribuicao_idades.txt`: Arquivo contendo a distribuição de atletas por escalão etário.
 
-## Observações
-
 > Este projeto segue as diretrizes do enunciado do TPC1.
