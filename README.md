@@ -13,9 +13,9 @@
 <div align="center">
 
 
-|          Nome          | Número |
-|------------------------|--------|
-| Augusto C.O. Campos    | A93320 |
+|          Nome          | Número | Email|
+|------------------------|--------|--------|
+| Augusto César Oliveira Campos    | A93320 | a93320@alunos.uminho.pt |
 
 
 
