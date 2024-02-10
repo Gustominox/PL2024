@@ -15,27 +15,6 @@
   - `aptos_inaptos.txt`: Arquivo contendo as percentagens de atletas aptos e inaptos.
   - `distribuicao_idades.txt`: Arquivo contendo a distribuição de atletas por escalão etário.
 
-## Como Executar
-
-1. Certifique-se de ter o Python instalado em sua máquina.
-2. Abra um terminal ou prompt de comando.
-3. Navegue até o diretório onde este repositório está clonado.
-4. Execute o seguinte comando para rodar a análise do dataset:
-
-   ```
-   python solution.py
-   ```
-
-5. Os resultados serão gerados na pasta `resultados/`.
-
-## Requisitos
-
-- Python 3.x
-- Um editor de texto ou IDE para revisar o código (opcional)
-
 ## Observações
 
-- Este projeto foi desenvolvido como parte de um trabalho acadêmico.
-- O dataset utilizado neste projeto está armazenado no arquivo `emd.csv`.
-- O script Python `solution.py` contém o código para processar o dataset e gerar os resultados solicitados.
-- Este projeto segue as diretrizes do enunciado do TPC1.
+> Este projeto segue as diretrizes do enunciado do TPC1.
