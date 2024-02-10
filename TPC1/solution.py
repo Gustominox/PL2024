@@ -22,14 +22,15 @@ for linha in sys.stdin:
     if modalidade not in modalidades:
         modalidades.append(modalidade)
 
-    # 
+    # verificar se é apto ou inapto
     teste_aptidao = valores[12]
     if teste_aptidao == "true":
         aptos += 1
     else:   
         inaptos += 1
-    idade = int(valores[5])
 
+    # ver range da idade e aumentar escalão de acordo
+    idade = int(valores[5])
     if (20 < idade <= 25):
         escaloes[0] += 1
     elif (25 < idade <= 30):
