@@ -1,5 +1,7 @@
 # TPC1: Análise de um Dataset
 
+## Enunciado
+
 - Proibido usar o módulo CSV;
 - Ler o dataset, processá-lo e criar os seguintes resultados:
     1. Lista ordenada alfabeticamente das modalidades desportivas.
@@ -8,11 +10,11 @@
 
 ## Estrutura do Repositório
 
-- `emd.csv`: O arquivo CSV contendo os dados do dataset.
-- `solution.py`: O script Python para realizar a análise do dataset.
-- `resultados/`: Pasta onde os resultados da análise serão armazenados.
-  - `modalidades.txt`: Arquivo contendo a lista ordenada alfabeticamente das modalidades desportivas.
-  - `aptos_inaptos.txt`: Arquivo contendo as percentagens de atletas aptos e inaptos.
-  - `distribuicao_idades.txt`: Arquivo contendo a distribuição de atletas por escalão etário.
+- `emd.csv`: O arquivo CSV com os dados do dataset.
+- `solution.py`: Script Python para a análise do dataset.
+- `resultados.txt`: Arquivo onde os resultados da análise são armazenados.
+  - `Modalidades`
+  - `Aptos e Inaptos`
+  - `Distribuição de Idades`
 
 > Este projeto segue as diretrizes do enunciado do TPC1.
