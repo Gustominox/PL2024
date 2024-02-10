@@ -4,8 +4,7 @@
 
 ---
 
-### 
-
+Este repositorio contem os TPC's realizados no decorrer do segundo semestre na UC de Processamento de Linguagens.
 
 ---
 <h3 align="center">Aluno</h3>
@@ -13,9 +12,9 @@
 <div align="center">
 
 
-|          Nome          | Número | Email|
-|------------------------|--------|--------|
-| Augusto César Oliveira Campos    | A93320 | a93320@alunos.uminho.pt |
+| Nome                          | Número | Email                   |
+| ----------------------------- | ------ | ----------------------- |
+| Augusto César Oliveira Campos | A93320 | a93320@alunos.uminho.pt |
 
 
 
