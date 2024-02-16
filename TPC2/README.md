@@ -41,8 +41,17 @@ Out:
 
 - Link: [texto](endereço URL)
 
-In: Como pode ser consultado em [página da UC](http://www.uc.pt)
-Out: Como pode ser consultado em <a href="http://www.uc.pt">página da UC</a>
+In:
+
+```Markdown
+Como pode ser consultado em [página da UC](http://www.uc.pt)
+```
+
+Out:
+
+```html
+Como pode ser consultado em <a href="http://www.uc.pt">página da UC</a>
+```
 
 - Imagem: ![texto alternativo](path para a imagem)
 
