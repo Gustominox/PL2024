@@ -1,4 +1,3 @@
-from math import floor
 import sys
 modalidades = []
 total = 0
@@ -11,7 +10,6 @@ escaloes = [0, # 21 - 25
 sys.stdin.readline() # ler o cabeçalho do csv
 
 for linha in sys.stdin:
-    # TODO ignore frist line 
     linha = linha.strip("\n") # remover "\n" do fim da linha
     total += 1
 
