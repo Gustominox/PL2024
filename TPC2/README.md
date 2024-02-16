@@ -2,26 +2,38 @@
 
 ## Criar em Python um pequeno conversor de MarkDown para HTML para os elementos descritos na "Basic Syntax" da Cheat Sheet:
 - Cabeçalhos: linhas iniciadas por "# texto", ou "## texto" ou "### texto"
-In: # Exemplo
-Out: <h1>Exemplo</h1>
+
+In: `# Exemplo`
+Out: `<h1>Exemplo</h1>`
+
 - Bold: pedaços de texto entre "**":
-In: Este é um **exemplo** ...
-Out: Este é um <b>exemplo</b> ...
+  
+In: Este é um `**exemplo**`
+Out: Este é um `<b>exemplo</b>`
+
 - Itálico: pedaços de texto entre "*":
-In: Este é um *exemplo* ...
-Out: Este é um <i>exemplo</i> ...
+In: Este é um `*exemplo*`
+Out: Este é um `<i>exemplo</i>`
+
 - Lista numerada:
+
 In:
-	1. Primeiro item
-	2. Segundo item
-	3. Terceiro item
+
+```Markdown
+1. Primeiro item
+2. Segundo item
+3. Terceiro item
+```
+
 Out:
 
+```html
 <ol>
 <li>Primeiro item</li>
 <li>Segundo item</li>
 <li>Terceiro item</li>
 </ol>
+```
 
 - Link: [texto](endereço URL)
 
