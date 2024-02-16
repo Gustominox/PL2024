@@ -4,15 +4,19 @@
 - Cabeçalhos: linhas iniciadas por "# texto", ou "## texto" ou "### texto"
 
 In: `# Exemplo`
+
 Out: `<h1>Exemplo</h1>`
 
 - Bold: pedaços de texto entre "**":
   
 In: Este é um `**exemplo**`
+
 Out: Este é um `<b>exemplo</b>`
 
 - Itálico: pedaços de texto entre "*":
+  
 In: Este é um `*exemplo*`
+
 Out: Este é um `<i>exemplo</i>`
 
 - Lista numerada:
