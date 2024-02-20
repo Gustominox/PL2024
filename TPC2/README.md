@@ -1,6 +1,7 @@
 # TPC2: Conversor de MD para HTML
 
 ## Criar em Python um pequeno conversor de MarkDown para HTML para os elementos descritos na "Basic Syntax" da Cheat Sheet:
+
 - Cabeçalhos: linhas iniciadas por "# texto", ou "## texto" ou "### texto"
 
 In: `# Exemplo`
@@ -22,6 +23,10 @@ Out: Este é um `<i>exemplo</i>`
 - Lista numerada:
 
 In:
+
+1. Primeiro item
+3. Terceiro item
+2. Segundo item
 
 ```Markdown
 1. Primeiro item
