@@ -24,10 +24,6 @@ Out: Este é um `<i>exemplo</i>`
 
 In:
 
-1. Primeiro item
-3. Terceiro item
-2. Segundo item
-
 ```Markdown
 1. Primeiro item
 2. Segundo item
