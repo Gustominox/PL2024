@@ -16,7 +16,7 @@ Este repositorio contem os TPC's realizados no decorrer do segundo semestre na U
 | ----------------------------- | ------ | ----------------------- |
 | Augusto César Oliveira Campos | A93320 | a93320@alunos.uminho.pt |
 
-|                                  |
-| -------------------------------- |
-| ![imagem dum coelho](fotoCV_croped.jpg) |
+<img src='fotoCV_croped.jpg' width="50%"/>
+
+
 </div>
