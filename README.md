@@ -18,7 +18,5 @@ Este repositorio contem os TPC's realizados no decorrer do segundo semestre na U
 
 |                                     |
 | ----------------------------------- |
-| <img src='uminho.png' width="20%"/> |
-
-
+| ![imagem dum coelho](uminho.png)'' |
 </div>
