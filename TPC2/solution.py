@@ -37,7 +37,6 @@ def link_sub(match):
     return html
 
 def img_sub(match):
-    print(match.groups())
     texto = match.group(1)        
     path = match.group(2)        
     html = f'<img src="{path}" alt="{texto}"/>' 
