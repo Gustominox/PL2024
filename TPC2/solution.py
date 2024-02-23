@@ -19,7 +19,6 @@ def italic_sub(match):
 
 def ordered_list_sub(match):
     itens = match.group(0).split('\n')
-    print (match.groups())
     html = f'<ol>\n'
     for item in itens:
         if item != "":
