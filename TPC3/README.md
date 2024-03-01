@@ -1,4 +1,4 @@
-# TPC2: Somador on/off
+# TPC3: Somador on/off
 
 ## Pretende-se um programa que some todas as sequências de dígitos que encontre num texto
 
