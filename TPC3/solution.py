@@ -5,7 +5,7 @@ def on_off_dfa(text):
     sum = 0    # Soma inicia a 0
     
     # Regex para capturar Alfabeto
-    pattern = re.compile(r'(?:On|Off|\d+|=)', re.IGNORECASE) 
+    pattern = re.compile(r'(?:On|Off|(\+|-)?\d+|=)', re.IGNORECASE) 
     
     for match in pattern.finditer(text):
         word = match.group()
@@ -23,5 +23,5 @@ def on_off_dfa(text):
             print("Output:", sum)
             
 # Example usage:
-text = "Onsdkedfsa10asdwsadwOffasdw=wdmxomv5sdsOnasdon20s30d40af=Off"
+text = "Onsdkedfsa10asdwsadwOffasdw=wdmxomvS5sdsOnasdon-20s30d40af=Off"
 on_off_dfa(text)
